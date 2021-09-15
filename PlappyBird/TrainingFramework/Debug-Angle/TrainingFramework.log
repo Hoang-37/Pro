@@ -1,0 +1,9 @@
+﻿  ResourceManagers.cpp
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(101,43): error C2039: 'GetShaderc': is not a member of 'ResourceManagers'
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.h(14): message : see declaration of 'ResourceManagers'
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(103,12): error C2065: 'm_MapShader': undeclared identifier
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(104,5): error C3536: 'it': cannot be used before it is initialized
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(104,12): error C2065: 'm_MapShader': undeclared identifier
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(111,19): error C2065: 'm_ShaderPath': undeclared identifier
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(112,19): error C2065: 'm_ShaderPath': undeclared identifier
+D:\SaveGit2\Pro\PlappyBird\TrainingFramework\src\GameManager\ResourceManagers.cpp(116,2): error C2065: 'm_MapShader': undeclared identifier
